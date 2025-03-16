@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+* {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.intro {
+  background-size: cover;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://www.osceolaschools.net/cms/lib/FL50000609/Centricity/Domain/1209/Barbering.png") no-repeat center center;
+  height: 80vh;
+  color: white;
+}
+.intro h1 {
+  font-size: 4rem;
+  margin-bottom: 1rem;
+}
+.intro p {
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+}
+.intro a {
+  font-size: 1.5rem;
+  color: white;
+}
+
+/*# sourceMappingURL=main.css.map */
